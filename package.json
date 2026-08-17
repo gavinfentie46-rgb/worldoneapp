@@ -1,0 +1,11 @@
+{
+  "name": "worldoneapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WorldOne app — everything in one app, with its build queue served by Netlify Functions and Netlify Database.",
+  "type": "module",
+  "dependencies": {
+    "@netlify/database": "^1.1.0",
+    "@netlify/functions": "^5.3.0"
+  }
+}
